@@ -1,0 +1,10 @@
+package testPjt;
+
+public class ReNewMainClass {
+	public static void main(String[] args) {
+		
+		System.out.println("오늘의 날씨는 10도 입니다.");
+		System.out.printf("오늘의 날씨는 %d도 입니다.n", 10);
+		System.out.printf("오늘의 날씨는 %d도 입니다.n", 10);
+	}
+}

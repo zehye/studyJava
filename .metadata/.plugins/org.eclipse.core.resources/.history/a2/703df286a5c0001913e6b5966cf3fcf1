@@ -1,0 +1,20 @@
+package oop1Pjt;
+
+public class mainClass {
+	// JVM이 프로그램을 실행할때 가장먼저 접근하는 곳이 main method
+	// 따라서 main method를 가지고있는 클래스를 만들어준다. 
+	
+	
+	public static void main(String[] args) {
+		//여기서 Grandeur라는 클래스로부터 객체를 만들어본다.
+		
+		Grandeur myCar1 = new Grandeur();
+		myCar1.color = "red";
+		myCar1.gear = "auto";
+		myCar1.price = 100;
+		
+		myCar1.run();
+		myCar1.stop();
+		myCar1.info();
+	}
+}
