@@ -18,5 +18,10 @@ public class MainClass2 {
 		
 		Bicycle mybicycle2 = new Bicycle("blue", 200);
 		mybicycle2.info();
+		
+		mybicycle2.color = "yellow"; //색이 변경된 경우 
+		mybicycle2.info();
+		// 바뀌어서 나옴
 	}
+	
 }

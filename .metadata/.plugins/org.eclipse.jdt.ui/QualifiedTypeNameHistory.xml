@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="oop1Pjt.mainClass"/>
+<fullyQualifiedTypeName name="oop1Pjt.Grandeur"/>
+<fullyQualifiedTypeName name="oop1Pjt.Bicycle"/>
+<fullyQualifiedTypeName name="whatMethod.childClass"/>
+<fullyQualifiedTypeName name="whatMethod.ObjectClass"/>
+<fullyQualifiedTypeName name="testPjt2.ObjectClass"/>
+<fullyQualifiedTypeName name="oop2Pjt.ObjectClass"/>
+<fullyQualifiedTypeName name="oop2Pjt.ObjectClass2"/>
+<fullyQualifiedTypeName name="gesePjt.Student"/>
+</qualifiedTypeNameHistroy>

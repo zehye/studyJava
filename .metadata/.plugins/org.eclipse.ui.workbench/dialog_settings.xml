@@ -15,7 +15,9 @@
 	<section name="NewWizardAction">
 	</section>
 	<section name="WorkbenchPreferenceDialogSettings">
-		<item key="DIALOG_X_ORIGIN" value="443"/>
-		<item key="DIALOG_Y_ORIGIN" value="-284"/>
+		<item key="DIALOG_X_ORIGIN" value="0"/>
+		<item key="DIALOG_Y_ORIGIN" value="-252"/>
+	</section>
+	<section name="ImportExportAction">
 	</section>
 </section>
